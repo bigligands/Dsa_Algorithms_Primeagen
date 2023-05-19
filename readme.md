@@ -10,9 +10,9 @@ These are simply my notes in a Jupyter Notebook from taking the Front End Master
 - Introduction
 - Basics
 - Search
+- Sort
 
 **In-Progress**
-- Sort
 - Arrays
 - Recursion
 - Quick Sort
