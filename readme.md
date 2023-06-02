@@ -11,10 +11,10 @@ These are simply my notes in a Jupyter Notebook from taking the Front End Master
 - Basics
 - Search
 - Sort
-
-**In-Progress**
 - Arrays
 - Recursion
+
+**In-Progress**
 - Quick Sort
 - Doubly Linked List
 - Trees
