@@ -13,9 +13,9 @@ These are simply my notes in a Jupyter Notebook from taking the Front End Master
 - Sort
 - Arrays
 - Recursion
+- Quick Sort
 
 **In-Progress**
-- Quick Sort
 - Doubly Linked List
 - Trees
 - Tree Search
